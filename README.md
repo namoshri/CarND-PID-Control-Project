@@ -74,4 +74,4 @@ KP = 0.2, KD = 3.0, KI = 0.004 I was able to get car pass track completely. Howe
 - thrrotling also updated and was able to get better speed. However, final video is without static throttle of 0.3
 
 #### Simulation output
-Here is final [video](https://www.youtube.com/watch?v=bex8PovDWsE) for successful track completion
+Here is final [video](https://youtu.be/uLM_U_8NDAg) for successful track completion
